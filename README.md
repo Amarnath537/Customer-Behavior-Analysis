@@ -19,11 +19,11 @@ This project answers key business questions such as:
 ## Architecture
 
 Raw CSV Data  
-     ↓  
+&emsp;↓  
 Python (Pandas – Cleaning & Validation)  
-     ↓  
+&emsp;↓  
 Cleaned Dataset  
-     ↓  
+&emsp;↓  
 SQLAlchemy  
      ↓  
 MySQL Database  
