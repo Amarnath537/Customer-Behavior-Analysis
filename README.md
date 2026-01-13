@@ -1,5 +1,5 @@
 # 📊 Customer Behavior Analytics – End-to-End BI Project
-===================================================================================================================================================
+===============================================================================================
 
 ### Project Overview
 This project analyzes customer purchasing behavior using an end-to-end Business Intelligence(BI) pipeline. The goal is to uncover insights about customer segments, discounts, revenue, and product performance using Python, MySQL, and Power BI.
