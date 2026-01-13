@@ -5,6 +5,7 @@ This project analyzes customer purchasing behavior using an end-to-end Business 
 
 The Project simulates how a real analytics team processes raw business data, cleans it, stores it in a database, and builds dashboards for decision-making.
 
+
 Business Objectives
 This project answers key business questions such as:
 	· What percentage of customers are subscribed?
@@ -42,6 +43,7 @@ The raw dataset was profiled and cleaned using Python:
 
 This created a production-ready dataset.
 
+
 Database Loading (SQLAlchemy + MySQL)
 The cleaned dataset was loaded into MySQL using SQLAlchemy:
 	· Created MySQL connection
@@ -50,6 +52,7 @@ The cleaned dataset was loaded into MySQL using SQLAlchemy:
 	
 This allowed SQL-based analytics to be performed on structured, reliable data.
 
+
 SQL Business Analysis
 Key Analytical techniques used:
 	· Aggregations (SUM, COUNT, AVG)
@@ -57,6 +60,7 @@ Key Analytical techniques used:
 	· Window functions (DENSE_RANK)
 	· Customer segmentation
 	· Revenue and discount analysis
+
 
 Power BI Dashboard
 The Power BI dashboard provides:
@@ -69,8 +73,9 @@ The Power BI dashboard provides:
 		○ Revenue & sales by category
 		○ Revenue & sales by age group
 		○ Interactive filters (gender, category, shipping type, subscription)
-
+		
 This allows business users to explore trends and customer behavior dynamically.
+
 
 💡Key Insights
 	· Clothing and Accessories generate the highest revenue
@@ -78,4 +83,3 @@ This allows business users to explore trends and customer behavior dynamically.
 	· Young Adults drive the highest revenue
 	· Discount usage varies significantly across products
 	· Loyal customers contribute a disproportionate share of sales
-<img width="925" height="1933" alt="image" src="https://github.com/user-attachments/assets/1d8bd41b-4dc6-4834-8222-fb5d2bca3314" />
