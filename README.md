@@ -19,17 +19,17 @@ This project answers key business questions such as:
 ## Architecture
 
 Raw CSV Data  
-&emsp;↓  
+&emsp;&emsp;&emsp;↓  
 Python (Pandas – Cleaning & Validation)  
-&emsp;↓  
+&emsp;&emsp;&emsp;↓  
 Cleaned Dataset  
-&emsp;↓  
+&emsp;&emsp;&emsp;↓  
 SQLAlchemy  
-     ↓  
+&emsp;&emsp;&emsp;↓  
 MySQL Database  
-     ↓  
+&emsp;&emsp;&emsp;↓  
 SQL Analysis  
-     ↓  
+&emsp;&emsp;&emsp;↓  
 Power BI Dashboard
 
 
