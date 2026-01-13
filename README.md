@@ -77,7 +77,7 @@ The Power BI dashboard provides:
 This allows business users to explore trends and customer behavior dynamically.
 
 
-###💡Key Insights
+### 💡Key Insights
 - Clothing and Accessories generate the highest revenue
 - Most customers are non-subscribers
 - Young Adults drive the highest revenue
