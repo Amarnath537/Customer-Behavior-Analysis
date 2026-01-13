@@ -78,9 +78,11 @@ This allows business users to explore trends and customer behavior dynamically.
 
 
 ### 💡Key Insights
+💡Key Insights
 	· Clothing and Accessories generate the highest revenue
 	· Most customers are non-subscribers
 	· Young Adults drive the highest revenue
 	· Discount usage varies significantly across products
 	· Loyal customers contribute a disproportionate share of sales
+
 
