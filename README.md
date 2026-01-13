@@ -16,7 +16,7 @@ This project answers key business questions such as:
 	· How should customers be segmented (New, Returning, Loyal)?
 
 
-### Architecture
+## Architecture
 
 Raw CSV Data  
      ↓  
@@ -33,7 +33,7 @@ SQL Analysis
 Power BI Dashboard
 
 
-### Data Cleaning (Python - Pandas)
+## Data Cleaning (Python - Pandas)
 The raw dataset was profiled and cleaned using Python:
 	· Checked column data types
 	· Detected missing values
@@ -44,7 +44,7 @@ The raw dataset was profiled and cleaned using Python:
 This created a production-ready dataset.
 
 
-### Database Loading (SQLAlchemy + MySQL)
+## Database Loading (SQLAlchemy + MySQL)
 The cleaned dataset was loaded into MySQL using SQLAlchemy:
 	· Created MySQL connection
 	· Loaded Pandas DataFrame into MySQL table
@@ -53,7 +53,7 @@ The cleaned dataset was loaded into MySQL using SQLAlchemy:
 This allowed SQL-based analytics to be performed on structured, reliable data.
 
 
-### SQL Business Analysis
+## SQL Business Analysis
 Key Analytical techniques used:
 	· Aggregations (SUM, COUNT, AVG)
 	· Conditional logic (CASE WHEN)
@@ -62,7 +62,7 @@ Key Analytical techniques used:
 	· Revenue and discount analysis
 
 
-### Power BI Dashboard
+## Power BI Dashboard
 The Power BI dashboard provides:
 	· KPIs:
 		○  Number of customers
