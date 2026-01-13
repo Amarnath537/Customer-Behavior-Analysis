@@ -65,14 +65,14 @@ Key Analytical techniques used:
 ## Power BI Dashboard
 The Power BI dashboard provides:
 - KPIs:
-		○  Number of customers
-		○ Average purchase amount
-		○ Average review rating
+-- Number of customers
+-- Average purchase amount
+-- Average review rating
 - Visuals:
-		○ Customer subscription %
-		○ Revenue & sales by category
-		○ Revenue & sales by age group
-		○ Interactive filters (gender, category, shipping type, subscription)
+-- Customer subscription %
+-- Revenue & sales by category
+-- Revenue & sales by age group
+-- Interactive filters (gender, category, shipping type, subscription)
 		
 This allows business users to explore trends and customer behavior dynamically.
 
