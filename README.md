@@ -1,6 +1,5 @@
 # 📊 Customer Behavior Analytics – End-to-End BI Project
 <br>
-<br>
 <img width="940" height="525" alt="image" src="https://github.com/user-attachments/assets/82634203-db78-4464-9b93-f8d6a74479c5" />
 
 ## Project Overview
